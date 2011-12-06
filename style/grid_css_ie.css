@@ -1,0 +1,17 @@
+html, body{
+	height:100%;
+	margin:0;
+	padding:0;
+}
+#grid_settings .pr_gr span{
+	margin:0;
+	left:0;
+	top:0;
+	filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+}
+#grid_settings{
+	border-color:#b7b7b7;
+}
+#gs_vertical select{
+	width:120px !important;
+}

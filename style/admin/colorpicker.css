@@ -1,0 +1,11 @@
+#thethe-layout-grid .colorPickerDiv{
+	z-index: 100;
+	background:#eee;
+	border:1px solid #ccc;
+	display:none;
+	margin-top:3px;
+}
+#thethe-layout-grid .thethe-settings-list td{
+	vertical-align:top;
+	padding:3px;
+}
