@@ -18,7 +18,7 @@ With our grids, side margins are no longer calculated as a half of a gutter. You
 
 NEW! Advanced usage: you can leave your plugin disabled at the plugin settings page not to load a grid over your page for general visitors but still force activating a grid of any configuration over any page but sending special parameters in the URL:
 
-?grid=1&vEnabled=1&hEnabled=1&gridCenter=1&backlink=1&system=960x12&vColor=FF0000&vOpacity=0.15&vMargin=10&vGutter=20&vColWidth=60&vColNumber=12&vContentWidth=940&vFullWidth=960&hColor=C0C0C0&hOpacity=0.3&hHeight=18&hOffset=1
+?grid=1&vEnabled=1&hEnabled=1&system=960x12
 
 This plugin is povided for FREE by [WordPress Themes Club TheTheFly.Com](http://TheTheFly.Com "TheTheFly.com - Premium WordPress Themes Club").
 
